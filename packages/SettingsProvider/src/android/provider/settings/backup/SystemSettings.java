@@ -106,5 +106,6 @@ public class SystemSettings {
         Settings.System.RINGTONE_VIBRATION_PATTERN,
         Settings.System.NOTIFICATION_VIBRATION_PATTERN,
         Settings.System.BACK_GESTURE_HEIGHT,
+        Settings.System.NAVIGATION_BAR_IME_SPACE,
     };
 }
