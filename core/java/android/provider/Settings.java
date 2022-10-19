@@ -6119,6 +6119,12 @@ public final class Settings {
         public static final String PULSE_TRIGGER_REASON = "pulse_trigger_reason";
 
         /**
+         * Enable and Disable Dual Tone Colors QsPanel
+         * @hide
+         */
+        public static final String QS_DUAL_TONE = "qs_dual_tone";
+
+        /**
          * These are all public system settings
          *
          * @hide
