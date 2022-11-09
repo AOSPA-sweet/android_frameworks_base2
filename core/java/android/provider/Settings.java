@@ -6058,7 +6058,7 @@ public final class Settings {
          */
         @Readable
         public static final String NOTIFICATION_VIBRATION_PATTERN = "notification_vibration_pattern";
-         
+
         /**
          * Whether to disable qs on secure lockscreen.
          * @hide
@@ -6069,6 +6069,12 @@ public final class Settings {
          * @hide
          */
         public static final String VOLUME_MEDIA_OUTPUT_TOGGLE = "volume_media_output_toggle";
+
+        /**
+         * Whether to show daily data usage in the QS footer.
+         * @hide
+         */
+        public static final String QS_SHOW_DATA_USAGE = "qs_show_data_usage";
 
         /**
          * Keys we no longer back up under the current schema, but want to continue to
