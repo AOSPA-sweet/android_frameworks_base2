@@ -107,5 +107,7 @@ public class SystemSettings {
         Settings.System.NOTIFICATION_VIBRATION_PATTERN,
         Settings.System.BACK_GESTURE_HEIGHT,
         Settings.System.NAVIGATION_BAR_IME_SPACE,
+        Settings.System.NETWORK_TRAFFIC_STATE,
+        Settings.System.NETWORK_TRAFFIC_AUTOHIDE_THRESHOLD,
     };
 }
